@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bharathbabu68
 - 👀 I’m interested in working with ML, Blockchain, and web development. 
 - ⚡ In my free time, you can probably find me working on some hackathon :)
-- 🌱 I’m currently learning hyperledger fabric and web development. 
 - 💞️ I’m looking to collaborate on anything really and wish to keep learning. 
 
 <!---

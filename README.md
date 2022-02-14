@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @bharathbabu68
-- 👀 I’m interested in working with ML, Blockchain, and web development. 
-- ⚡ In my free time, you can probably find me working on some hackathon :)
-- 💞️ I’m looking to collaborate on anything really and wish to keep learning. 
+- 👀 I’m skilled in blockchain, ML, and am currently learning web dev
+- ⚡ In my free time, I love solving problems through hackathons
+- 💞️ I’m actively getting into Web3 and look forward to collaborating on interesting projects.
+- 📧 Reach out to me on Twitter (@bharathbabu68)
 
 <!---
 bharathbabu68/bharathbabu68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

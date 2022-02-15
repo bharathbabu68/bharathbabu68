@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bharathbabu68
-- 👀 I’m skilled in blockchain, ML, and am currently learning web dev
+- 👀 I’m skilled in blockchain, ML, and am currently learning ReactJS
 - ⚡ In my free time, I love solving problems through hackathons
 - 💞️ I’m actively getting into Web3 and look forward to collaborating on interesting projects.
 - 📧 Reach out to me on Twitter (@bharathbabu68)
